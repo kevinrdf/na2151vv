@@ -24,6 +24,13 @@ Necesitaras las siguientes herramientas para poder ejecutar el proyecto:
 - Angular 8.x
 - Ionic 2.x
 
+## Ejecutar el proyecto
 
+Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
 
+gh repo clone <repo>
+  
+Despues de ello, entra a nuestro proyecto y ejecútalo:
+  
+npm start
 
