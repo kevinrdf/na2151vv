@@ -6,3 +6,5 @@
 
 ## Contribuir
 
+Si quieres contribuir a nuestro proyecto, tienes que seguir los siguinetes pasos
+
