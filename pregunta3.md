@@ -28,9 +28,9 @@ Necesitaras las siguientes herramientas para poder ejecutar el proyecto:
 
 Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
 
-gh repo clone <repo>
+gh repo clone <repo>.md
   
 Despues de ello, entra a nuestro proyecto y ejecútalo:
   
-npm start
+npm start.md
 
