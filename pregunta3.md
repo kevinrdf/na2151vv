@@ -10,5 +10,5 @@ Si quieres contribuir a nuestro proyecto, tienes que seguir los siguinetes pasos
 
   1. Ve a nuestro proyecto en GitHub y realiza un [fork!](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   2. Realiza las modificaciones que consideres necesarias en tu copia del proyecto.
-  3. 
+  3. Envía un [PR!](https://docs.github.com)
 
